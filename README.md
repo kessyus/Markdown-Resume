@@ -3,9 +3,9 @@
 <img src="./Resume.png">
 
 
-## 如何使用
+## Como usar
 
-把该项目 Clone 之后，修改 [Resume.md](Resume.md) 文件即可。
+Após clonar o projeto, modifique o arquivo [Resume.md] (Resume.md).
 
 ## 导出 PDF
 
@@ -35,20 +35,35 @@
 
 ![](assets/6.png)
 
+<!-- ## Exportar PDF
 
+Recomenda-se usar o editor Typora, primeiro exportar para HTML e, em seguida, usar o navegador para imprimir em PDF.
 
-## 简历格式检查
+Como o formato Markdown não é compacto o suficiente, alguns estilos precisam ser modificados, caso contrário, o conteúdo original de apenas uma página se tornará duas ou três páginas.
 
-https://cyc2018.github.io/Text-Typesetting/
+(1) Copie resume.css para a pasta de temas do Typora
 
-![](assets/check-resume.png)
+! [] (ativos / 1.png)
 
+(2) A pasta do tema pode ser aberta em "Arquivo -> Preferências -> Pasta do tema"
 
+! [] (ativos / 2.png)
 
-## 关于图标
+! [] (ativos / 3.png)
 
-因为有些 Markdown 编辑器不支持 HTML 语法，例如 Typora，也就无法导入 fontawesome 样式表。无奈之下只能将本简历模版需要使用到的图标单独下载，放入 assets 目录下，并且在简历中以 `<img>` 标签来引用。我已经对这部分 HTML 代码进行了一定的排版，从而方便大家理解和修改。
+(3) Em seguida, reinicie o editor Typora e selecione Resume no tema.
+
+! [] (ativos / 4.png)
+
+(4) Use o seguinte método para exportar para HTML: Arquivo -> Exportar -> HTML
+
+! [] (ativos / 5.png)
+
+(5) Use um navegador para abrir o arquivo HTML exportado e pressione "ctrl + P" para imprimir, você precisa remover o cabeçalho e rodapé.
+
+! [] (ativos / 6.png) -->
 
 ## License
 
 - [fontawesome](https://fontawesome.com/license)
+- Layout & Project forked from @CyC2018/Markdown-Resume
