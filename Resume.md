@@ -1,24 +1,29 @@
  <center>
-     <h1>XXX</h1>
+     <h1>Seu Nome</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             +55 (XX) XXXXX-XXXX
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             kessyus@gmail.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/kessyus">kessyus</a>
+         </span>
+         ·
+         <span>
+             <img src="assets/gitlab.svg" width="18px">
+             <a href="https://gitlab.com/kessyus">kessyus</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="#">Meu Blog</a>
          </span>
      </div>
  </center>
